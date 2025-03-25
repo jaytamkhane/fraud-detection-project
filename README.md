@@ -28,10 +28,8 @@ Seaborn
 
 ✅ Project Structure
 
-📁 Fraud Detection Data Analysis Project
-│
-├── [Fraud Detection Data Analysis Project.ipynb]()
-└── README.md
+[Fraud Detection Data Analysis Project.ipynb](https://github.com/jaytamkhane/fraud-detection-project/blob/main/Fraud%20Detection%20Data%20Analysis%20Project.ipynb)
+README.md
 
 ✅ Key Highlights of the Project
 
