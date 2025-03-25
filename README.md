@@ -1,6 +1,6 @@
 📊 Fraud Detection Data Analysis Project
 
-This project is part of my internship with Accredian, where I performed exploratory data analysis (EDA) and insights generation on a fraud detection dataset using Python and Jupyter Notebook.
+This is a self-initiated project where I performed exploratory data analysis (EDA) and insights generation on a fraud detection dataset using Python and Jupyter Notebook.
 
 ✅ Project Objectives
 
@@ -28,9 +28,11 @@ Seaborn
 
 ✅ Project Structure
 
-[Fraud Detection Data Analysis Project.ipynb](https://github.com/jaytamkhane/fraud-detection-project/blob/main/Fraud%20Detection%20Data%20Analysis%20Project.ipynb)
-
-README.md
+📁 Fraud Detection Data Analysis Project]
+│
+├── [Fraud Detection Data Analysis Project.ipynb](https://github.com/jaytamkhane/fraud-detection-project/blob/main/Fraud%20Detection%20Data%20Analysis%20Project.ipynb)
+|
+|─ README.md
 
 ✅ Key Highlights of the Project
 
@@ -54,6 +56,4 @@ Graphical representations for better decision-making
 
 This project showcases my ability to work with real-world datasets, perform thorough analysis, and communicate insights effectively. It is part of my learning journey to becoming a skilled data analyst.
 
-
 Thank you for checking out my project!
-
